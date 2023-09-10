@@ -11,7 +11,7 @@ A Python script for performing login brute-force attacks on web applications.
 
 ## Introduction
 
-This Python script is a simple web login brute-forcer that allows you to perform password guessing attacks on a web application. It uses the `requests` library to send login requests with different password combinations and checks for a specified string that occurs when login fails.
+This Python script is a simple web login brute-forcer that allows you to perform password-guessing attacks on a web application. It uses the `requests` library to send login requests with different password combinations and checks for a specified string that occurs when login fails.
 
 **Disclaimer:** Please use this script responsibly and only on web applications that you have explicit permission to test. Unauthorized access to computer systems and networks is illegal.
 
